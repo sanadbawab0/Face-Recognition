@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanad AL-Bawab</h1>
+
 - 🔭 I have recently completed a **Face Analysis**
 
 - 🌱 I’m currently learning **Django REST Framework + Machine Learning**
